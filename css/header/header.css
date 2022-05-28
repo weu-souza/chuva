@@ -1,0 +1,101 @@
+.header-container {
+    background: #FDF1EB;
+    margin-bottom: 50px;
+    padding:5px ;
+
+}
+
+#btnMobile{
+    border: none;
+    background: none;
+    display: none;
+    padding: 20px;
+}
+.header-titulo {
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.1;
+    color: #725C5C;
+    padding:3px ;
+}
+
+.acima-titulo {
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 1rem;
+    color: #725C5C;
+}
+
+.abaixo-titulo {
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 1rem;
+    color: #725C5C;
+}
+
+.language-icon {
+    background: url('../../img/language_icon.png') no-repeat;
+
+
+}
+
+select {
+    border: none;
+    background: #FDF1EB;
+    text-transform: uppercase;
+    font-family: 'Quicksand', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #333333;
+}
+
+.border-language {
+    display: flex;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px;
+}
+
+.bem-vindo {
+    font-family: 'Quicksand', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.87rem;
+    line-height: 1.125;
+    text-align: right;
+    color: #333333;
+
+}
+
+.email {
+    font-family: 'Quicksand', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.75rem;
+    line-height: 0.93;
+    text-align: right;
+    color: #333333;
+}
+.notify {
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    color: #FFFFFF;
+    background: #F85959;
+    padding: 2px 4px;
+}
+@media (max-width: 1200px) {
+    #btnMobile{
+    display: inline;
+    }
+
+
+}

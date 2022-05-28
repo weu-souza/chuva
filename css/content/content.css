@@ -1,0 +1,124 @@
+.corpo-container {
+   margin-bottom: 60px;
+}
+.detalhes h2 {
+    max-width: 40ch;
+    text-align: left;
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 1.25rem;
+    line-height: 1.5625rem;
+    letter-spacing: 0.05em;
+    color: #ED7839;
+    margin-bottom: 30px;
+
+}
+
+.button-container {
+
+    margin-right: 15px;
+}
+
+.download-button {
+    background: #ED7839;
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.1875rem;
+    color: #FFFFFF;
+    border-radius: 4px;
+}
+
+.fav-button {
+    color: #FFFFFF;
+    background: #ED7839;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.doi-button {
+    background: #ED7839;
+    border-radius: 4px;
+}
+.detalhes-1 h2 {
+    background: #FDF1EB;
+    border: 1px solid #ECECEC;
+    border-radius: 3px 3px 0 0;
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 1.56rem;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+
+
+    color: #4E4E4E;
+}
+
+.como-citar {
+    font-family: 'Roboto', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1.5625rem;
+    text-align: left;
+    letter-spacing: 0.05em;
+
+    color: #ED7839;
+
+    padding: 10px;
+
+}
+
+.apresentacao p {
+    font-family: 'Quicksand', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.80rem;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #5C5C5C;
+
+}
+
+.apresentacao {
+    overflow: scroll;
+    width: 242px;
+    height: 200px;
+    overflow-x: hidden;
+    border: 1px solid #ECECEC;
+    border-radius: 3px;
+    padding: 10px;
+}
+.detalhes,iframe{
+    width: 1084px;
+    height: 439px;
+    padding-bottom: 2rem;
+    border: none;
+}
+@media (max-width: 1200px) {
+    .detalhes h2{
+        max-width: none;
+        font-size: 0.875rem;
+        line-height: 1rem;
+        letter-spacing: 1px;
+
+    }
+    corpo-buttons{
+
+    }
+    .corpo-container {
+        margin-bottom: 60px;
+        padding: 20px;
+
+       }
+
+    .detalhes, iframe{
+        width: 500px;
+        height: 400px;
+    }
+}

@@ -1,0 +1,11 @@
+@import "global/global.css";
+@import "utilitarios/utilitarios.css";
+@import "side-menu/side-menu.css";
+@import "header/header.css";
+@import "content/content.css";
+@import "resumo/resumo.css";
+@import "discussoes/discussoes.css";
+@import "respostas/respostas.css";
+@import "footer/footer.css";
+
+

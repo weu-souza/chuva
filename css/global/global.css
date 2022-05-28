@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    justify-items: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+.main{
+    display: grid;
+    grid-template-columns: 250px auto;
+}
+.container {
+    display: grid;
+    grid-template-rows: 1fr auto;
+    margin-left: 250px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+p, h1, h2, h3 {
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 3px;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #E7E7E7;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #BFBFBF;
+}
+@media (max-width: 1200px) {
+    .container{
+        margin: 0;
+
+    }
+    .mobile{
+        display: none;
+    }
+}
