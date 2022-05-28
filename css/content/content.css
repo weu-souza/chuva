@@ -2,7 +2,6 @@
    margin-bottom: 60px;
 }
 .detalhes h2 {
-    max-width: 40ch;
     text-align: left;
     font-family: 'Roboto', serif;
     font-style: normal;
@@ -100,15 +99,11 @@
     padding-bottom: 2rem;
     border: none;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1500px) {
     .detalhes h2{
-        max-width: none;
         font-size: 0.875rem;
         line-height: 1rem;
         letter-spacing: 1px;
-
-    }
-    corpo-buttons{
 
     }
     .corpo-container {
