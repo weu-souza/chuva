@@ -96,7 +96,9 @@ btnCriarTopico.addEventListener("click",()=>{
 
     }
 })
+
 //topico enviado
+
 const btnEnviar = document.getElementById("btnEnviar")
 const topicoEnviado = document.getElementById("topico-enviado1")
 let clicked5 = false;
@@ -114,11 +116,12 @@ btnEnviar.addEventListener("click",()=>{
         topicoEnviado.style.display="inline";
     }
 })
-//criar novo topico
-const btnCriarNovoTopico = document.getElementById("novo-topico")
-let clicked6 = false;
-btnCriarNovoTopico.addEventListener("click",()=>{
+//novo topico
 
+const btnCriarNovoTopico = document.getElementById("novo-topico")
+
+btnCriarNovoTopico.addEventListener("click",()=>{
+    let clicked6 = false;
     if (!clicked6){
         clicked6=true;
         criarTopico.style.display = "inline";
