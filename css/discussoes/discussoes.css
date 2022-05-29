@@ -11,8 +11,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 1rem;
+    line-height: 1.25;
     color: #ED7839;
 
 }
@@ -20,8 +20,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 19px;
+    font-size: 0.875rem;
+    line-height: 1.1875;
     text-align: center;
 
     color: #595959;
@@ -30,8 +30,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 1rem;
+    line-height: 1.25;
 
 
 
@@ -43,8 +43,8 @@
     font-family: 'Segoe UI', serif;
     font-style: normal;
     font-weight: 350;
-    font-size: 14px;
-    line-height: 19px;
+    font-size: 0.875rem;
+    line-height: 1.1875;
 
     color: #757575;
     cursor: pointer;
@@ -58,8 +58,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 15px;
-    line-height: 16px;
+    font-size: 0,9375;
+    line-height: 1;
     text-align: center;
     padding: 0.5rem;
 
@@ -80,8 +80,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 0.875rem;
+    line-height: 1.125;
 
     color: #4D4D4D;
 }
@@ -91,8 +91,8 @@
     font-family: 'Segoe UI', serif;
     font-style: normal;
     font-weight: 350;
-    font-size: 14px;
-    line-height: 19px;
+    font-size: 0.875rem;
+    line-height: 1.1875;
 
 
     color: #757575;
@@ -144,8 +144,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 0.875rem;
+    line-height: 1.125;
 
     text-align: center;
 
@@ -160,8 +160,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 0.875rem;
+    line-height: 1.125;
 
 
     color: #4D4D4D;
@@ -174,8 +174,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 0.875rem;
+    line-height: 1.125;
 
 
 
@@ -185,8 +185,8 @@
     font-family: 'Roboto', serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 16px;
-    line-height: 19px;
+    font-size: 1rem;
+    line-height: 1.1875;
 
     color:#ED7839;
 }
@@ -205,8 +205,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 15px;
-    line-height: 16px;
+    font-size: 0.9375rem;
+    line-height: 1;
     cursor:pointer;
     text-align: left;
     color: #FFFFFF;
@@ -240,8 +240,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 15px;
-    line-height: 16px;
+    font-size: 0.9375rem;
+    line-height: 1;
     text-align: center;
 
     color: #FFFFFF;
@@ -250,8 +250,8 @@
     font-family: 'Roboto', serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 1.125rem;
+    line-height: 1.3125;
     text-align: center;
 
     color: #ED7839;
@@ -260,8 +260,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 19px;
+    font-size: 0.875rem;
+    line-height: 1.1875;
 
     text-align: center;
 
@@ -271,7 +271,7 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 137.5%;
 
     text-align: center;
@@ -293,8 +293,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 1rem;
+    line-height: 1.25;
 
 
     color: #707070;
@@ -303,8 +303,8 @@
     font-family: 'Segoe UI', serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 19px;
+    font-size: 0.875rem;
+    line-height: 1.1875;
 
 
     text-decoration-line: underline;
@@ -342,8 +342,8 @@
     font-family: 'Quicksand', serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 0.75rem;
+    line-height: 1.125;
 
     color: rgba(77, 77, 77, 0.15);
 }

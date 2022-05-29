@@ -15,8 +15,8 @@
     font-family: 'Roboto', serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 30px;
-    line-height: 35px;
+    font-size: 1.875rem;
+    line-height: 2.1875rem;
     display: flex;
     align-items: center;
     text-align: center;
@@ -29,7 +29,7 @@
     border: 1px solid #E7E7E7;
     color: #725C5C;
     border-radius: 1px;
-    border-left: 3px solid #ffffff;
+    border-left: 4px solid #ffffff;
 }
 .menu a:hover{
     background: #FDF1EB;
