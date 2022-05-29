@@ -34,10 +34,12 @@
 .menu a:hover{
     background: #FDF1EB;
 }
+
 .menu a:active{
     border-right: none;
     -webkit-border-image: -webkit-gradient(linear, right top, left bottom, from(#FFB455), to(#ED7839))0 100% ;
 }
+
 @media (max-width: 1200px) {
     .side-menu{
         display: none;

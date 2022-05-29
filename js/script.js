@@ -1,8 +1,9 @@
 //botao leia mais
 function leiaMais(){
-    let pontos = document.getElementById("pontos");
-    let maisTexto=document.getElementById("mais");
-    let btnLeiaMais=document.getElementById("btnVerMais");
+    const pontos = document.getElementById("pontos");
+    const maisTexto=document.getElementById("mais");
+    const btnLeiaMais=document.getElementById("btnVerMais");
+
     if (pontos.style.display === "none"){
         pontos.style.display="inline";
         maisTexto.style.display="none";
@@ -12,7 +13,6 @@ function leiaMais(){
         pontos.style.display="none";
         maisTexto.style.display="inline";
         btnLeiaMais.innerHTML="ver menos"
-
     }
 }
 
@@ -86,7 +86,9 @@ italic.addEventListener("click",()=>{
 const topico = document.getElementById("topico");
 const criarTopico = document.getElementById("criar-Topico");
 const btnCriarTopico = document.getElementById("btnCriarTopico");
+
 let clicked4 = false;
+
 btnCriarTopico.addEventListener("click",()=>{
 
     if (!clicked4){

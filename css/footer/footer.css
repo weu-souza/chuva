@@ -25,10 +25,11 @@
 .logo a:hover{
     text-decoration-line: underline;
 }
+
 .footer p{
     color: #5C5C5C;
     font-family: "Quicksand",sans-serif;
-    font-size: 14px;
+    font-size: 0.875rem;
     line-height: 1.428571429;
 
 }
